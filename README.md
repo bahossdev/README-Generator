@@ -16,7 +16,7 @@ Simplify the process of creating README files with this generator, enabling deve
   - usage information, 
   - contribution guidelines, 
   - test instructions, 
-  - license details, and 
+  - license with badge and link to the license page, and 
   - contact information.
 
   - **See a sample of a generated Readme file in demo folder!**
@@ -65,8 +65,18 @@ Link to Walkthrough Video demonstrating the functionality of the README generato
 - https://drive.google.com/file/d/1lJ1F1C7FYPxiS2FTcYejgWZ9FUHTHZH1/view?usp=sharing
 
 ## Repository:
-https://github.com/bahossdev/README-Generator
+- https://github.com/bahossdev/README-Generator
 
 ## Questions
 
 If you have any questions or need further assistance, feel free to reach out @[bahoss.dev@gmail.com](mailto:bahoss.dev@gmail.com)
+Thank you! :)
+
+## Screenshots:
+
+- Run the application in the command line terminal:
+![Screenshot1](https://github.com/bahossdev/README-Generator/assets/148646212/2add52ef-80fd-469e-8443-e326c815b32b)
+
+- Sample of a generated readme file:
+![Screenshot2](https://github.com/bahossdev/README-Generator/assets/148646212/2d086a7f-b9d0-4b61-b525-e759ca22e1c8)
+
