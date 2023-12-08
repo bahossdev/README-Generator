@@ -77,6 +77,6 @@ Thank you! :)
 - Run the application in the command line terminal:
 ![Screenshot1](https://github.com/bahossdev/README-Generator/assets/148646212/2add52ef-80fd-469e-8443-e326c815b32b)
 
-- Sample of a generated readme file:
+- Sample of a generated readme file (check it inside the demo folder):
 ![Screenshot2](https://github.com/bahossdev/README-Generator/assets/148646212/2d086a7f-b9d0-4b61-b525-e759ca22e1c8)
 
