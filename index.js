@@ -85,7 +85,6 @@ function init() {
 
     .then((data) => {
         console.log(data);
-        let fileName = data.title.toLowerCase();
         writeToFile(data);
     }
     );

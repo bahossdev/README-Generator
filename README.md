@@ -18,6 +18,8 @@ Simplify the process of creating README files with this generator, enabling deve
   - test instructions, 
   - license details, and 
   - contact information.
+
+  - **See a sample of a generated Readme file in demo folder!**
   
 
 ## Installation

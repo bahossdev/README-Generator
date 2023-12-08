@@ -112,6 +112,7 @@ Thank you! :)
 ` : ``}`
 }
 
+// Exporting the generateMarkdown function
 module.exports = generateMarkdown;
 
 
